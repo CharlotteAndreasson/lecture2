@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Häj häj");
         System.out.println("Läget?");
+        System.out.println("Detta är så svårt");
     }
 }
